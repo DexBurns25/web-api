@@ -32,7 +32,7 @@ var quizQuestions = [{
     question: "What does DOM stand for?",
     choiceA: "Document Object Model",
     choiceB: "Display Object Management",
-    choiceC: "Digital Ordinance Model",
+    choiceC: "Donate Ordinance Model",
     choiceD: "Desktop Oriented Mode",
     correctAnswer: "a"},
    {
@@ -58,10 +58,10 @@ var quizQuestions = [{
     correctAnswer: "a"},  
     {
     question: "What does WWW stand for?",
-    choiceA: "Web World Workings",
+    choiceA: "Web Wide WAN",
     choiceB: "Weak Winter Wind",
     choiceC: "World Wide Web",
-    choiceD: "Wendy Wants Waffles",
+    choiceD: "William Wants Wendys",
     correctAnswer: "c"},
     {
     question: "What HTML attribute references an external JavaScript file?",
